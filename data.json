@@ -1,0 +1,17 @@
+{
+    "_payment_methods_": {
+        "TelegramStars": "True",
+        "CryptoBot": "False",
+        "YooKassa": "False",
+        "CrystalPay": "False"
+    },
+    "_TG_Star_in_USDT_": {
+        "amount": 0.013,
+        "percent": 10
+    },
+    "_Referral_System_": {
+        "works": "True",
+        "percent": 5
+    },
+    "_Main_Channel_": "False"
+}
